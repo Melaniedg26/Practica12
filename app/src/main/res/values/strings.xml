@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica12</string>
+    <string name="title_activity_main">Firebase Ktlin</string>
+    <string name="subtitle_acitvity_main">Upload File</string>
+    <string name="all">TODO</string>
+    <string name="upload">Subir Imagen</string>
+
+</resources>
